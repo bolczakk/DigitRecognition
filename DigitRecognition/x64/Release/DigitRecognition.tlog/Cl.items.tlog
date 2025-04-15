@@ -1,0 +1,12 @@
+D:\dr\DigitRecognition\DigitRecognition\src\Console.cpp;D:\dr\DigitRecognition\DigitRecognition\x64\Release\Console.obj
+D:\dr\DigitRecognition\DigitRecognition\src\DataLoader.cpp;D:\dr\DigitRecognition\DigitRecognition\x64\Release\DataLoader.obj
+D:\dr\DigitRecognition\DigitRecognition\src\InputMenu.cpp;D:\dr\DigitRecognition\DigitRecognition\x64\Release\InputMenu.obj
+D:\dr\DigitRecognition\DigitRecognition\src\Layer.cpp;D:\dr\DigitRecognition\DigitRecognition\x64\Release\Layer.obj
+D:\dr\DigitRecognition\DigitRecognition\src\main.cpp;D:\dr\DigitRecognition\DigitRecognition\x64\Release\main.obj
+D:\dr\DigitRecognition\DigitRecognition\src\Model.cpp;D:\dr\DigitRecognition\DigitRecognition\x64\Release\Model.obj
+D:\dr\DigitRecognition\DigitRecognition\src\NeuralNetwork.cpp;D:\dr\DigitRecognition\DigitRecognition\x64\Release\NeuralNetwork.obj
+D:\dr\DigitRecognition\DigitRecognition\src\Neuron.cpp;D:\dr\DigitRecognition\DigitRecognition\x64\Release\Neuron.obj
+D:\dr\DigitRecognition\DigitRecognition\src\OutputLayer.cpp;D:\dr\DigitRecognition\DigitRecognition\x64\Release\OutputLayer.obj
+D:\dr\DigitRecognition\DigitRecognition\src\Shapes\Circle.cpp;D:\dr\DigitRecognition\DigitRecognition\x64\Release\Circle.obj
+D:\dr\DigitRecognition\DigitRecognition\src\Shapes\Triangle.cpp;D:\dr\DigitRecognition\DigitRecognition\x64\Release\Triangle.obj
+D:\dr\DigitRecognition\DigitRecognition\src\Vectors\Vectorxf.cpp;D:\dr\DigitRecognition\DigitRecognition\x64\Release\Vectorxf.obj
