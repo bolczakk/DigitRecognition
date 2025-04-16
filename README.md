@@ -5,4 +5,4 @@ Simple neural network with one hidden layer (128 neurons).
 ## Libraries
 I use SDL3 for graphical interface, making it easy to draw digits, visualize predictions in real time and eye-friendly.
 ## Instruction
-You can train or load model from file by changing mode in main.cpp. To change input after running program press Space.
+Choose Release, not Debug. You can train or load model from file by changing mode in main.cpp. To change input after running program press Space.
