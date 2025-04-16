@@ -105,8 +105,8 @@ SDL_AppResult SDL_AppEvent(void* appstate, SDL_Event* event) {
 }
 
 const Uint32 frameDelay = 1000 / 120;
-Uint32 frameStart;
-Uint32 frameTime;
+Uint64 frameStart;
+Uint64 frameTime;
 
 SDL_AppResult SDL_AppIterate(void* appstate) {
     frameStart = SDL_GetTicks();

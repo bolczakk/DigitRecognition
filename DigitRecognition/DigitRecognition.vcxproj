@@ -72,8 +72,8 @@
   </ImportGroup>
   <PropertyGroup Label="UserMacros" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
-    <IncludePath>D:\dr\DigitRecognition\Linking\include;$(IncludePath)</IncludePath>
-    <LibraryPath>D:\dr\DigitRecognition\Linking\lib;$(LibraryPath)</LibraryPath>
+    <IncludePath>$(SolutionDir)\Linking\include;$(IncludePath)</IncludePath>
+    <LibraryPath>$(SolutionDir)\Linking\lib;$(LibraryPath)</LibraryPath>
   </PropertyGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
     <ClCompile>
